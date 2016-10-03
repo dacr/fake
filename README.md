@@ -1,0 +1,3 @@
+# FAKE PROJECT
+to play with git, git branches, jenkins, ...
+
